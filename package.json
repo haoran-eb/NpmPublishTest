@@ -1,5 +1,5 @@
 {
-  "name": "@haoran/haoran-npm-test",
+  "name": "@haoran-eb/haoran-npm-test",
   "version": "0.0.1",
   "description": "Applicant tracking system",
   "main": "index.js",
