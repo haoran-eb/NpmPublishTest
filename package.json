@@ -1,11 +1,14 @@
 {
-  "name": "haoran-npm-test",
+  "name": "@haoran-eb/npm-publish-test",
   "version": "0.0.5",
   "description": "Applicant tracking system",
   "main": "index.js",
   "repository": {
-    "url": "git@github.com:haoran-eb/NpmPublishTest.git",
+    "url": "https://github.com/haoran-eb/npm-publish-test.git",
     "type": "git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "author": "cobra",
   "license": "MIT",
