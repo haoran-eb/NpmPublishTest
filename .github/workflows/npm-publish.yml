@@ -18,6 +18,9 @@ jobs:
         with:
           node-version: 10
           registry-url: https://registry.npmjs.org/
+      - run: |
+          git config --global user.email "github-actions[bot]"
+          git config --global user.name "github-actions[bot]@users.noreply.github.com"
       - run: npm version patch
       - run: npm publish
         env:
