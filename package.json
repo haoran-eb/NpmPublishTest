@@ -1,6 +1,6 @@
 {
   "name": "haoran-npm-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Applicant tracking system",
   "main": "index.js",
   "repository": {
