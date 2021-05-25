@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.indeed:berbix:1.7-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/indeed/berbix/1.7-SNAPSHOT/berbix-1.7-20200702.191229-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/indeed/berbix/1.7-SNAPSHOT/berbix-1.7-20200702.191229-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/indeed/berbix/1.7-SNAPSHOT/berbix-1.7-20200702.191229-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

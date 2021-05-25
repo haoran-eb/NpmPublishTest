@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.cobra.logging:clip-lorry:2.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cobra/logging/clip-lorry/2.3-SNAPSHOT/clip-lorry-2.3-20210322.222404-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cobra/logging/clip-lorry/2.3-SNAPSHOT/clip-lorry-2.3-20210322.222404-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cobra/logging/clip-lorry/2.3-SNAPSHOT/clip-lorry-2.3-20210322.222404-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
