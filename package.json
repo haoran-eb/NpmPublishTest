@@ -1,11 +1,8 @@
 {
-  "name": "@haoran-eb/haoran-npm-test",
+  "name": "haoran-npm-test",
   "version": "0.0.1",
   "description": "Applicant tracking system",
   "main": "index.js",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "repository": {
     "url": "git@github.com:haoran-eb/NpmPublishTest.git",
     "type": "git"
