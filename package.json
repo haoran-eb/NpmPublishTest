@@ -4,7 +4,7 @@
   "description": "Applicant tracking system",
   "main": "index.js",
   "repository": {
-    "url": "git@github.com/tardisone/cobra-ats.git",
+    "url": "git@github.com:haoran-eb/NpmPublishTest.git",
     "type": "git"
   },
   "author": "cobra",
